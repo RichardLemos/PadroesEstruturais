@@ -1,0 +1,5 @@
+Recibo: 
+Empresa: K19 Treinamentos 
+Cliente:  Richard Cagão
+Valor: 1000.0
+
