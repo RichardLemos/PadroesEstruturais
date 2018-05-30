@@ -1,4 +1,4 @@
-# Padroes-Estruturais-de-Projeto
+# Padrões estruturais de projeto
 
 As interações entre os objetos de um sistema podem gerar fortes dependências entre esses ele-
 mentos. Essas dependências aumentam a complexidade das eventuais alterações no funcionamento do sistema. Consequentemente, o custo de manutenção aumenta. Mostraremos alguns padrões de projeto que diminuem o acoplamento entre os objetos de um sistema orientado a objetos.
